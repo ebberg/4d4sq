@@ -78,11 +78,14 @@ Passive Wisdom (Perception) Score: ___
 
 ### Weapon Proficiencies
 
-- (long|short)(bow|sword)
+- Longbow
+- Shortbow
+- Longsword
+- Shortsword
 
 ### Special Attacks
 
-(None)
+- (None)
 
 ## Spellcasting
 
