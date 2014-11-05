@@ -2,31 +2,31 @@
 
 ## Basics
 
-- Race: ___
-- Class: ___ Level ___
-- Background: ___
-- Alignment: ___
+- **Race:** ___
+- **Class:** ___ Level ___
+- **Background:** ___
+- **Alignment:** ___
 
 ## Stats
 
-- Str: 10 (0)
-- Dex: 12 (+1)
-- Con: 14 (+2)
-- Int: 16 (+3)
-- Wis: 11 (0)
-- Cha: 9 (-1)
+- **Str:** 10 (0)
+- **Dex:** 12 (+1)
+- **Con:** 14 (+2)
+- **Int:** 16 (+3)
+- **Wis:** 11 (0)
+- **Cha:** 9 (-1)
 
 Passive Wisdom (Perception) Score: ___
 
 ## Metrics
 
-- Armor Class (AC): ___
-- Initiative: __
-- Proficiency Bonus: __
-- Speed: ___
-- Hit Point Max: ___
-- Hit Dice: _d_
-- Current HP: ___
+- **Armor Class (AC):** ___
+- **Initiative:** __
+- **Proficiency Bonus:** __
+- **Speed:** ___
+- **Hit Point Max:** ___
+- **Hit Dice:** _d_
+- **Current HP:** ___
 
 ## Main Proficiencies:
 (Put a star after the ones you have!)
@@ -72,9 +72,9 @@ Passive Wisdom (Perception) Score: ___
 
 ## Spellcasting
 ### Ability
-Spellcasting Ability: +0
-Spell Save DC: +0
-Spell Attack Bonus: +0
+**Spellcasting Ability:** +0
+**Spell Save DC:** +0
+**Spell Attack Bonus:** +0
 
 ### Known Spells
 #### Spell - Range - Duration (Page Number)
