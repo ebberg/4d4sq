@@ -25,6 +25,7 @@ Initiative: __
 Proficiency Bonus: __
 Speed: ___
 Hit Point Max: ___
+Hit Dice: _d_
 Current HP: ___
 
 ## Main Proficiencies:
@@ -61,7 +62,22 @@ Current HP: ___
 
 ## Languages and Other Proficiencies
 
-## Attacks & Spellcasting
+## Weapons & Attacks
+### Weapon Proficiencies
+- (Proficiencies)
+
+### Special Attacks
+#### Attack (Page Number)
+- Attack Effects
+
+## Spellcasting
+### Ability
+Spellcasting Ability: +0
+Spell Save DC: +0
+Spell Attack Bonus: +0
+
+### Known Spells
+#### Spell - Range - Duration (Page Number)
 
 ## Inventory
 
