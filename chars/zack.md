@@ -2,38 +2,38 @@
 
 ## Basics
 
-Race: Wood Elf
-Class: Ranger (Hunter) Level 2
-Background: Charlatan
-Alignment: Chaotic Neutral
+- Race: Wood Elf
+- Class: Ranger (Hunter) Level 2
+- Background: Charlatan
+- Alignment: Chaotic Neutral
 
 ## Stats
 
-Str: 12 (+1)
-Dex: 16 (+3)
-Con: 10 (0)
-Int: 8  (-1)
-Wis: 16 (+3)
-Cha: 13 (+1)
+- Str: 12 (+1)
+- Dex: 16 (+3)
+- Con: 10 (0)
+- Int: 8  (-1)
+- Wis: 16 (+3)
+- Cha: 13 (+1)
 
 Passive Wisdom (Perception) Score: ___
 
 ## Metrics
 
-Armor Class (AC): 16
-Initiative: +3
-Proficiency Bonus: +2
-Speed: 35
-Hit Point Max: 20
-Hit Dice: 2d10
-Current HP:
+- Armor Class (AC): 16
+- Initiative: +3
+- Proficiency Bonus: +2
+- Speed: 35
+- Hit Point Max: 20
+- Hit Dice: 2d10
+- Current HP:
 
 ## Main Proficiencies:
 (Put a star next to the ones you have!)
 
 ### Saving Throws
-* Strength
-* Dexterity
+- Strength *
+- Dexterity *
 - Constitution
 - Intelligence
 - Wisdom
@@ -43,19 +43,19 @@ Current HP:
 - Acrobatics (Dex)
 - Animal Handling (Wis)
 - Arcana (Int)
-* Athletics (Str)
-* Deception (Cha)
+- Athletics (Str) *
+- Deception (Cha) *
 - History (Int)
-* Insight (Wis)
+- Insight (Wis) *
 - Intimidation (Cha)
 - Investigation (Int)
 - Medicine (Wis)
 - Nature (Int)
-* Perception (Wis)
+- Perception (Wis) *
 - Persuasion (Cha)
 - Religion (Int)
-* Sleight of Hand (Dex)
-* Stealth (Dex)
+- Sleight of Hand (Dex) *
+- Stealth (Dex) *
 - Survival (Wis)
 
 ## Features & Traits
